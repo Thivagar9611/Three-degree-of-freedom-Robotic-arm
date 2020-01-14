@@ -1,0 +1,10 @@
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\bin\Debug\Robotics.exe.config
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\bin\Debug\Robotics.exe
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\bin\Debug\Robotics.pdb
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\obj\Debug\Robotics.csprojAssemblyReference.cache
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\obj\Debug\Robotics.Form1.resources
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.cache
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\obj\Debug\Robotics.csproj.CoreCompileInputs.cache
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\obj\Debug\Robotics.exe
+E:\Mechatronics Engineering\MECHATRONICS SEM 7\Robotics for Engineers\Robotic Project\Robotics\Robotics\obj\Debug\Robotics.pdb
